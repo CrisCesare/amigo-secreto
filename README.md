@@ -5,8 +5,9 @@ Desafio do amigo secreto do curso Alura
 
 Essa aplicação é um dos desafios do curso de Lógica em Programação dos cursos da Alura em parceria com a Oracle (ONE - Oracle Next Education).
 
-Neste exercício, criei uma página de web onde é possível realizar o sorteio de um amigo secreto com temática natalina. 
+Neste exercício, criei uma página de web onde é possível realizar o sorteio de um amigo secreto com temática natalina.  
 O site também é uma ótima alternativa para selecionar um vencedor de algum sorteio que você possa querer realizar.
+
 
 **Link:** *https://criscesare.github.io/amigo-secreto/*
 
