@@ -15,7 +15,7 @@ O site também é uma ótima alternativa para selecionar um vencedor de algum so
 **Link:** *https://criscesare.github.io/amigo-secreto/*
 
 &nbsp;
-## **💼 Funcionalidades / Premissas da aplicação**
+## **💼 Funcionalidades**
 
 ###### 1. Botão "Adicionar" apresenta alerta caso o campo "Digite um nome" esteja em branco;
 ![image](https://github.com/user-attachments/assets/93416e36-1bd5-44b3-84f1-f7f0983e479b)
@@ -61,3 +61,10 @@ https://github.com/user-attachments/assets/12a8d8db-97f6-4bd0-8b16-4f02f40473e0
 &nbsp;
 ###### 13. O botão "Limpar lista" recomeça todo o processo da aplicação.
 https://github.com/user-attachments/assets/208d5fb1-e650-4aec-af67-8019a207b85f
+
+&nbsp;
+## **💻 Tecnologias Utilizadas**
+&nbsp;
+HTML: Estrutura da página e conteúdo.
+CSS: Estilização e design responsivo.
+JavaScript: Lógica de programação para interação e sorteiodos amigos.
