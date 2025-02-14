@@ -64,7 +64,11 @@ https://github.com/user-attachments/assets/208d5fb1-e650-4aec-af67-8019a207b85f
 
 &nbsp;
 ## **💻 Tecnologias Utilizadas**
+
+<ins>**HTML:</ins>** Estrutura da página e conteúdo.\
+<ins>**CSS:</ins>** Estilização e design responsivo.\
+<ins>**JavaScript:</ins>** Lógica de programação para interação e sorteio dos amigos.
+
 &nbsp;
-HTML: Estrutura da página e conteúdo.
-CSS: Estilização e design responsivo.
-JavaScript: Lógica de programação para interação e sorteiodos amigos.
+## **👩🏻‍💻 Autores**
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/150594797?v=4" width=115><br><sub>Cris Cesare</sub>](https://github.com/CrisCesare)
