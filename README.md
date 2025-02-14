@@ -24,7 +24,8 @@ O site também é uma ótima alternativa para selecionar um vencedor de algum so
 ![image](https://github.com/user-attachments/assets/5dc73e99-4b54-4c5f-bc8b-e7845cf8aefa)
 &nbsp;
 ###### 3. Não é aceito número e caracteres especiais. Mas atenção: Você pode digitar as acentuações de nomes como "Antônio", "Hélio" e "Cecília";
-https://github.com/user-attachments/assets/b7e9b139-1c67-4ba1-bf15-ee7a39e4affa
+https://github.com/user-attachments/assets/dca79f16-46b3-4608-aa62-b85cd6ec15e9
+
 &nbsp;
 ###### 4. Não permite entrada de nomes repetidos. Caso necessário, digite o sobrenome de seu amigo;
 ###### 5. Você pode digitar os nomes em caixa alta ou caixa baixa, a aplicação irá padronizar para somente a primeira letra maiúscula;
