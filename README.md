@@ -1,17 +1,21 @@
-# amigo-secreto
+# Amigo-Secreto
 Desafio do amigo secreto do curso Alura
 
-**Introdução:**
+&nbsp;
+## **📖 Introdução**
 
 Essa aplicação é um dos desafios do curso de Lógica em Programação dos cursos da Alura em parceria com a Oracle (ONE - Oracle Next Education).
 
 Neste exercício, criei uma página de web onde é possível realizar o sorteio de um amigo secreto com temática natalina.  
 O site também é uma ótima alternativa para selecionar um vencedor de algum sorteio que você possa querer realizar.
 
+&nbsp;
+## **🔗 Link do Challenge**
 
 **Link:** *https://criscesare.github.io/amigo-secreto/*
 
-**Funcionalidades / Premissas da aplicação:**
+&nbsp;
+## **Funcionalidades / Premissas da aplicação:**
 
 1. Botão "Adicionar" apresenta alerta caso o campo "Digite um nome" esteja em branco;
 2. O nome digitado precisa ter pelo menos 3 letras;
