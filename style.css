@@ -17,6 +17,7 @@
 
 body {
     height: 100vh;
+    box-sizing: border-box;
     background-color: var(--color-primary);
     display: flex;
     justify-content: center;
