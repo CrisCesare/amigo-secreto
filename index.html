@@ -2,25 +2,22 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DancingScript:wght@100;400;700;900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
     <title>Amigo Secreto</title>
 </head>
-
 <body>
-    <main class="main-content">
-        <header class="header-banner">
-            <h1 class="main-title">Amigo Secreto</h1>
-            <img src="assets/amigo-secreto.png" alt="Imagem representativa de amigo secreto nata">
-        </header>
-        
-        <section class="input-section">
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+    <header class="header-banner">
+        <h1 class="main-title">Amigo Secreto</h1>
+        <img src="assets/amigo-secreto.png" alt="Imagem representativa de amigo secreto natal">
+    </header>
+    <main class="main-content">   
+            <section class="input-section">
             <h2 class="section-title">Digite o nome dos seus amigos</h2>
             <div class="input-wrapper">
-                <input type="text" id="amigo" class="input-name" placeholder="Digite um nome">
+                <input type="text" id="amigo" class="input-title" placeholder="Digite um nome">
                 <button class="button-add" onclick="adicionarAmigo()">Adicionar</button>
             </div>
            
@@ -43,10 +40,8 @@
             </div>
         </section>
     </main>
-
-</section>
-</main>
-
-    <script src="app.js" defer></script>
+    <footer class="rodape">
+        <p>Desenvolvido por Cris Cesare</p>
+    </footer>
 </body>
 </html>
