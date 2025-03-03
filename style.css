@@ -239,6 +239,11 @@ button:disabled {
         font-size: 0.875rem;
         padding: 0.625rem 1.25rem;
     }
+    
+    .Imagem {
+        width: 40%;
+        height: auto;
+    }
 
     .rodape {
         font-size: 0.7rem;
