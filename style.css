@@ -202,8 +202,12 @@ button:disabled {
 
 @media (max-width: 1200px) {
 
+    body {
+        width: 100%;
+    }
+
     .main-title {
-        font-size: 2.5rem;
+        font-size: 2rem;
         text-align: right;
         padding: 5%;
     }
@@ -211,11 +215,11 @@ button:disabled {
     .main-content {
         flex-direction: column;
         padding: 2%;
-        width: 100%
+        width: 100%;
     }
 
     .input-section {
-        width: 90%;
+        width: 100%;
         padding: 1rem;
     }
 
@@ -230,7 +234,7 @@ button:disabled {
 
     .input-title, .input-name {
         font-size: 1rem;
-        width: 90%;
+        width: 80%;
     }
 
     button {
@@ -246,5 +250,6 @@ button:disabled {
     .rodape {
         font-size: 0.7rem;
         padding: 2rem;
+        margin: 2rem;
     }
 }
