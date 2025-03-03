@@ -200,21 +200,48 @@ button:disabled {
     font-style: italic;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 768px) {
 
     .main-title {
-        padding: 10%;
-        justify-content: right;
-        font-size: 3.5rem;
-        height: auto;
-    }
-
-    .main-content {
-        flex-direction: column-reverse;
+        font-size: 2.5rem;
+        text-align: center;
         padding: 5%;
     }
 
+    .main-content {
+        flex-direction: column;
+        padding: 2%;
+    }
+
     .input-section {
-        width: auto;
+        width: 90%;
+        padding: 1rem;
+    }
+
+    .section-title {
+        font-size: 2rem;
+        margin: 0.5rem 0;
+    }
+
+    .input-wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .input-title, .input-name {
+        font-size: 0.875rem;
+        width: 100%;
+        border-radius: 1.5625rem;
+        margin-bottom: 0.5rem;
+    }
+
+    button {
+        font-size: 0.875rem;
+        padding: 0.625rem 1.25rem;
+    }
+
+    .rodape {
+        font-size: 0.7rem;
+        padding: 0.5rem;
     }
 }
