@@ -256,5 +256,6 @@ button:disabled {
     .rodape {
         font-size: 0.7rem;
         padding: 2rem;
+        margin: 2rem;
     }
 }
